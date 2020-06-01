@@ -119,10 +119,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "training-bank",
-  "cli": {
-    "analytics": "0c391c6e-c793-4db3-b259-7343d4933429"
-  }
+    }},
+  "defaultProject": "training-bank"
 }
